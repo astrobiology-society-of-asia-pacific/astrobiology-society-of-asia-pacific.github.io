@@ -14,7 +14,8 @@ Astrobiology Society of Asia-Pacific (ASAP) is formed to
 * facilitate the organization of astrobiological science meetings in the Asia-Pacific region
 
 # Events in the Asia-Pacific region
-* ASTROBIOLOGY AUSTRALASIA MEETING 2020, Sept 9-11, Tokyo, Japan. More info: <a href="https://www.aam2020.org/" target="_blank">https://www.aam2020.org</a>.
+* Astrobiology Graduate Conference (AbGradCon) 2020, Sept 14-18, Tokyo, Japan. More info: <a href="https://www.abgradcon.org/" target="_blank">https://www.abgradcon.org</a>.
+* ASTROBIOLOGY AUSTRALASIA MEETING (AAM) 2020, Sept 9-11, Tokyo, Japan. More info: <a href="https://www.aam2020.org/" target="_blank">https://www.aam2020.org</a>.
 
 # Astrobiological Research Groups in the Asia-Pacific region
 Please propose links for inclusion here.
