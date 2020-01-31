@@ -20,15 +20,15 @@ Astrobiology Society of Asia-Pacific (ASAP) is formed to
 Please propose links for inclusion here.
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
 
 ![hitcount tag](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fwww.astrobiology.asia%2F)
 
-<br>
-<br>
+<br> 
+<br> 
 
-Contact us by email at <astrobiology.asia@gmail.com>
+Contact us by email at <astrobiology.asia@gmail.com>.
