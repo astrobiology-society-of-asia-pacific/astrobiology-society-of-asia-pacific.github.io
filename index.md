@@ -2,6 +2,8 @@
 
 ## Big things have small beginnings.
 
+![Image of AbSciCon2019 logo]<a href="/images/"></a>
+
 ![alt text](https://higherlogicdownload.s3.amazonaws.com/AGU/734326d9-60a8-44e1-a26a-4592aff90992/UploadedImages/AbsiCon/AbSciCon_Space_Needle_Firs_Stars_Logo_322x275.jpg)
 
 Attendees of the original "Astrobiology in Asia" meeting at AbSciCon 2019 showed enthusiasm about (1) promoting astrobiology in their home countries or in the Asia-Pacific countries where their current affiliations are located; (2) the idea of having a regional meeting equivalent to AbSciCon; and (3) the idea of having an organization to facilitate the above activities. They reconvened to discuss steps going forward. Here is <a href="/pdfs/AbSciCon_AsiaPacific_20190628_v2.pdf">a short summary</a>.
@@ -14,4 +16,4 @@ Astrobiology Society of Asia-Pacific (ASAP) is formed to
 * facilitate the organization of astrobiological science meeting in the Asia-Pacific region
 
 # Events in the Asia-Pacific region
-* ASTROBIOLOGY AUSTRALASIA MEETING 2020, Sept 9-11, Tokyo, Japan. Click <a href="https://www.aam2020.org/">here</a> for more info.
+* ASTROBIOLOGY AUSTRALASIA MEETING 2020, Sept 9-11, Tokyo, Japan. More info: <a href="https://www.aam2020.org/">https://www.aam2020.org</a>.
