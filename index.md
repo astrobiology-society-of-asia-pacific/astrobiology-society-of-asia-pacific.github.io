@@ -8,7 +8,7 @@ Attendees of the original "Astrobiology in Asia" meeting at 2019AbSciCon showed 
 
 ## Missions
 
-Astrobiology Society of Asia-Pacific (ASAP) was formed to
+Astrobiology Society of Asia-Pacific (ASAP) is formed to
 * promote astrobiology in the Asia-Pacific region
 * serve as a network to connect scientists in the Asia-Pacific region who are interested in astrobiology
 * facilate the organization of astrobiological science meeting in the Asia-Pacific region
