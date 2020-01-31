@@ -26,9 +26,9 @@ Please propose links for inclusion here.
 <br> 
 <br> 
 
+Contact us by email at <astrobiology.asia@gmail.com>
+
+<br> 
+<br> 
+
 ![hitcount tag](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fwww.astrobiology.asia%2F)
-
-<br> 
-<br> 
-
-Contact us by email at <astrobiology.asia@gmail.com>.
