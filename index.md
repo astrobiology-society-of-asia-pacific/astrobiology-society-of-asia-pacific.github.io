@@ -37,6 +37,7 @@ Please propose links for inclusion here.
 <br> 
 
 Contact us by email at <astrobiology.asia@gmail.com>
+Join ASAP Google Group at <a href="https://groups.google.com/forum/#!forum/astrobiologyasia" target="_blank">https://groups.google.com/forum/#!forum/astrobiologyasia</a>.
 
 <br> 
 <br> 
