@@ -32,6 +32,11 @@
 
       {{ content }}
       
+      {% for page in site.pages %}
+        <a href={{ page.filename }}>{{ page.title }}</a>
+      {% endfor %}
+
+      
 <!--
       <footer class="site-footer">
         {% if site.github.is_project_page %}
@@ -47,9 +52,6 @@
       </footer>
 -->
 
-      {% for page in site.pages %}
-        <a href={{ page.filename }}>{{ page.title }}</a>
-      {% endfor %}
 
     </section>
 
