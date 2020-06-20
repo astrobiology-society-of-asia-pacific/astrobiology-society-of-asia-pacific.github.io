@@ -19,11 +19,6 @@ As a way to promote inter-region discussion and collaboration amongst Asia and O
 *Tony Z Jia*, Earth-Life Science Institute (ELSI), Japan
 
 ## Schedule
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 Day and Time | Speaker and Title
 ------------ | -----------------
 Friday, June 26<br>0630 GMT/1530 JST (UTC+9) | **Tony Z Jia (ELSI, BMSIS)**<br>Primitive Compartments on Early Earth Assembled through Liquid-Liquid Phase Separation Phenomena
