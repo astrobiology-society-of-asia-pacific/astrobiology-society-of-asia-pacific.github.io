@@ -1,5 +1,5 @@
 title: About ASAP
-layout: defaults
+layout: default
 filename: AboutASAP.md
 
 # Testing
