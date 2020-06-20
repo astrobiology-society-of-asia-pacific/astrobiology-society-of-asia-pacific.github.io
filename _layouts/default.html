@@ -31,10 +31,6 @@
     <section class="main-content">
 
       {{ content }}
-
-      {% for page in site.pages %}
-       <a href={{ page.filename }}>{{ page.title }}</a>
-      {% endfor %}
       
 <!--
       <footer class="site-footer">
@@ -50,6 +46,10 @@
         <p class="view"><a href="http://goo.gl/tLDPFM">Click here to join our mailing list</a></p>
       </footer>
 -->
+
+      {% for page in site.pages %}
+        <a href={{ page.filename }}>{{ page.title }}</a>
+      {% endfor %}
 
     </section>
 
