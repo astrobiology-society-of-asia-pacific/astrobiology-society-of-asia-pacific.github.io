@@ -11,7 +11,7 @@ filename: opportunities
 * **43rd COnneting SPAce Research for global impact (COSPAR)**, 2020 Aug 15-22, Sydney, Australia. More info: <a href="https://www.cospar2020.org/index.php" target="_blank">https://www.cospar2020.org/index.php</a>.
 * **Introduction To Astrobiology Workshop, 2020 Feb 25-27**, Mumbai, India. More info: <a href="https://www.amity.edu/mumbai/ASTROBIOLOGY2020/?fbclid=IwAR3bAEGKqAH6qpa_81mZT_jsBIKmzF_Q0JFMXa0_Bw-MnD_iGVuST6CsnQk" target="_blank">https://www.amity.edu/mumbai/ASTROBIOLOGY2020/?fbclid=IwAR3bAEGKqAH6qpa_81mZT_jsBIKmzF_Q0JFMXa0_Bw-MnD_iGVuST6CsnQk</a>.
 
-# Job openinings
+# Job openings
 * PIFI Postdoctoral Fellowship. More info: <a href="http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi" target="_blank">http://international-talent.cas.cn/front/pc.html#/bicsite/pifiIntroduce/pifi</a>.<br>
   Contact Maggie C.Y. Lau <<maglau@idsse.ac.cn>> to discuss this opportunity.
 
