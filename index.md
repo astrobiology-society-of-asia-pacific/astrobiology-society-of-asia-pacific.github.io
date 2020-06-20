@@ -19,15 +19,7 @@ Astrobiology Society of Asia-Pacific (ASAP) is formed to
 * serve as a network to connect scientists in the Asia-Pacific region who are interested in astrobiology
 * facilitate the organization of astrobiological science meetings in the Asia-Pacific region
 
-# Events in the Asia-Pacific region
-## Year 2020
-* **Astrobiology Graduate Conference (AbGradCon) 2020**, Sept 14-18, Tokyo, Japan. More info: <a href="https://www.abgradcon.org/" target="_blank">https://www.abgradcon.org</a>.
-* **Astrobiology Australasia Meeting (AAM) 2020**, Sept 9-11 (postponed), Tokyo, Japan. More info: <a href="https://www.aam2020.org/" target="_blank">https://www.aam2020.org</a>.
-* **43rd COnneting SPAce Research for global impact (COSPAR)**, 2020 Aug 15-22, Sydney, Australia. More info: <a href="https://www.cospar2020.org/index.php" target="_blank">https://www.cospar2020.org/index.php</a>.
-* **Introduction To Astrobiology Workshop, 2020 Feb 25-27**, Mumbai, India. More info: <a href="https://www.amity.edu/mumbai/ASTROBIOLOGY2020/?fbclid=IwAR3bAEGKqAH6qpa_81mZT_jsBIKmzF_Q0JFMXa0_Bw-MnD_iGVuST6CsnQk" target="_blank">https://www.amity.edu/mumbai/ASTROBIOLOGY2020/?fbclid=IwAR3bAEGKqAH6qpa_81mZT_jsBIKmzF_Q0JFMXa0_Bw-MnD_iGVuST6CsnQk</a>.
 
-# Study Programs Related to Astrobiology
-* **Master of Science in the field of Space Science**, University of Hong Kong, Hong Kong SAR, China. Due date: April 29, 2020 for non-locals and June 30, 2020 for locals. More info: <a href="https://aal.hku.hk/tpg/programme/master-science-field-space-science" target="_blank">https://aal.hku.hk/tpg/programme/master-science-field-space-science</a>.
 
 
 
@@ -35,13 +27,6 @@ Astrobiology Society of Asia-Pacific (ASAP) is formed to
 <br> 
 <br> 
 <br> 
-<br> 
-<br> 
-
-Contact us by email at <astrobiology.asia@gmail.com>
-
-Join ASAP Google Group at <a href="https://groups.google.com/forum/#!forum/astrobiologyasia" target="_blank">https://groups.google.com/forum/#!forum/astrobiologyasia</a>.
-
 <br> 
 <br> 
 
@@ -51,6 +36,5 @@ Join ASAP Google Group at <a href="https://groups.google.com/forum/#!forum/astro
 
 <br> 
 <br>
-<a href="https://www.abgradcon.org/" target="_blank">https://www.abgradcon.org</a>.
-This multipage <a href="https://pages.github.com">GitHub Pages</a> was created with reference to this <a href="https://phuston.github.io/patrickandfrantonarethebestninjas/howto">how-to</a> page.
+This multipage <a href="https://pages.github.com">GitHub Page</a> was created with reference to this <a href="https://phuston.github.io/patrickandfrantonarethebestninjas/howto">how-to</a> page.
 
