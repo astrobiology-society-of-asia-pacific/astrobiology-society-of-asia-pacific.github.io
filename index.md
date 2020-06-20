@@ -1,8 +1,6 @@
----
-title: About ASAP
+title: Main
 layout: default
 filename: index.md
---- 
 
 # About ASAP
 
