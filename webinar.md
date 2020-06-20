@@ -20,12 +20,11 @@ As a way to promote inter-region discussion and collaboration amongst Asia and O
 
 ## Schedule
 Day and Time | Speaker and Title |
------------- | -----------------
+------------ | ----------------- |
 Friday, June 26<br>0630G MT/1530 JST (UTC+9) | **Tony Z Jia (ELSI, BMSIS)**<br>Primitive Compartments on Early Earth Assembled through Liquid-Liquid Phase Separation Phenomena
-Wednesday, July 1<br>0330 GMT/1130 CST (UTC+8) | **André Antunes (MUST-SKLPlanets)**<br>New Frontiers in Microbiology: Brines, Biominerals, and Exooceans
+Wednesday, July 1<br>0330 GMT/1130 CST (UTC+8) | **André Antunes (MUST-SKLPlanets)**<br>New Frontiers in Microbiology: Brines, Biominerals, and Exooceans |
 Friday, July 10<br>0330 GMT/0900 IST (UTC+5:30) | **Siddharth Pandey (ACoeA)**<br>Overview of Astrobiology Activities in India
 Wednesday, July 15<br>0330 GMT/1330 AEST (UTC+10) | **Anna Wang (UNSW)**<br>TBA
 
 ## Abstracts
-![GitHub Logo](/images/ASAP_Astrobiology_Webinar_2020-23Jia.png.png)
-
+![Tony's flyer](/images/ASAP_Astrobiology_Webinar_2020-23Jia.png)
