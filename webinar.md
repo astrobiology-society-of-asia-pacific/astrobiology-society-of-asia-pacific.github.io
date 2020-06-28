@@ -28,12 +28,9 @@ Friday, July 10<br>0330 GMT/0900 IST (UTC+5:30) | **Siddharth Pandey (ACoeA)**<b
 Wednesday, July 15<br>0330 GMT/1330 AEST (UTC+10) | **Anna Wang (UNSW)**<br>TBA
 
 ## Abstracts
-<!--Tony's flyer--> <img border="0" src="/images/ASAP_Astrobiology_Webinar_20200626-Jia.png" width="85" height="110">
+<!--Tony's flyer-->
+<a href="/images/ASAP_Astrobiology_Webinar_20200626-Jia.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200626-Jia.png" width="85" height="110"></a>
 
-![Antunes's flyer](/images/ASAP_Astrobiology_Webinar_20200701-Antunes.png)
-
-
-<!--
-<a href="URL">display-text</a>
--->
+<!--Antunes's flyer-->
+<a href="/images/ASAP_Astrobiology_Webinar_20200701-Antunes.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200701-Antunes.png" width="850" height="1100"></a>
 
