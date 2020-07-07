@@ -20,7 +20,7 @@ As a way to promote inter-region discussion and collaboration amongst Asia and O
 
 ## Schedule
 
-Sign-up to receive updates about the webinars at <a href="https://docs.google.com/forms/d/1WDwaJ42piT41OrL12BCh5hJe4b23Cr5HEfZcUHxKiEM" target_"blank">here</a>.
+Sign-up to receive updates about the webinars at <a href="https://docs.google.com/forms/d/1WDwaJ42piT41OrL12BCh5hJe4b23Cr5HEfZcUHxKiEM" target="_blank">here</a>.
 
 Day and Time | Speaker and Title
 ------ | ------
