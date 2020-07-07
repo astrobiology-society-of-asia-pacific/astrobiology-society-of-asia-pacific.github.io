@@ -7,7 +7,7 @@ filename: webinar
 # ASAP Astrobiology Webinar Series
 
 ## Overview
-As a way to promote inter-region discussion and collaboration amongst Asia and Oceania astrobiology researchers, the ASAP Astrobiology Webinar Series will be launched in collaboration with the Astrobiology Society of Asia-Pacific (ASAP). The weekly series will span over the three northern hemisphere summer months with weekly online seminars featuring researchers from a variety of institutions in Asia and Oceania and astrobiology-related fields. The webinars are open for students and researchers who are interested in the topics in astrobiology and will be held in English. 
+As a way to promote inter-region discussion and collaboration amongst Asia and Oceania astrobiology researchers, the ASAP Astrobiology Webinar Series will be launched in collaboration with the Astrobiology Society of Asia-Pacific (ASAP). The weekly series will span over the three northern hemisphere summer months with weekly online seminars featuring researchers from a variety of institutions in Asia and Oceania and astrobiology-related fields. The webinars are open for students and researchers who are interested in the topics in astrobiology and will be held in English.
 
 ## ASAP Astrobiology Webinar Series Organizing Team
 *André Antunes*, Macau University of Science and Technology (MUST), Macau<br>
@@ -19,6 +19,8 @@ As a way to promote inter-region discussion and collaboration amongst Asia and O
 *Tony Z Jia*, Earth-Life Science Institute (ELSI), Japan
 
 ## Schedule
+
+Sign-up to receive updates about the webinars at <a href="https://docs.google.com/forms/d/1WDwaJ42piT41OrL12BCh5hJe4b23Cr5HEfZcUHxKiEM" target_"blank">here</a>.
 
 Day and Time | Speaker and Title
 ------ | ------
