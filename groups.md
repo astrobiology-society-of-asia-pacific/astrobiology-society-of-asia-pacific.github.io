@@ -19,14 +19,16 @@ filename: groups
 * **Lau, Maggie C.Y.**<br>
   Professor/Researcher<br>
   Institute of Deep-sea Science and Engineering CAS, Sanya, Hainan, China<br>
+  <a href="http://www.idsse.cas.cn/yjsgk2015/zzjg2015/yftx2015/shkxyjb2015/dwhyxtyjs2015/" target="_blank">http://www.idsse.cas.cn/yjsgk2015/zzjg2015/yftx2015/shkxyjb2015/dwhyxtyjs2015/</a><br>
   <a href="http://people.ucas.edu.cn/~maglau?language=en" target="_blank">http://people.ucas.edu.cn/~maglau?language=en</a>
 
 * **Pandey, Siddharth**<br>
-  Head of Centre for Excellence in Astrobiology
-  Amity University Mumbai, Mumbai, India
+  Head of Centre for Excellence in Astrobiology<br>
+  Amity University Mumbai, Mumbai, India<br>
+  <a href="https://www.acoea.com/" target="_blank">https://www.acoea.com/</a>
 
 * **Wang, Anna**<br>
-  Scientia Lecturer
+  Scientia Lecturer<br>
   University of New South Wales, Sydney, Australia<br>
   <a href="https://www.annawanglab.com/" target="_blank">https://www.annawanglab.com/</a>
 
