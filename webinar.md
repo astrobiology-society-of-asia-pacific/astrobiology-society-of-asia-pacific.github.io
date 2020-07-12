@@ -42,7 +42,7 @@ Thursday, July 23<br>0330 GMT/1130 CST (UTC+8) | **Maggie C.Y. Lau (IDSSE, CAS)*
 <a href="/images/ASAP_Astrobiology_Webinar_20200710-Pandey.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200710-Pandey.png" width="85" height="110"></a>
 
 <!--Anna's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" width="85" height="110"></a>
+<a href="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" width="850" height="1100"></a>
 
 
 <!--
