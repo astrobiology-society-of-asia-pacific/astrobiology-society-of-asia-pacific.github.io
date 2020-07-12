@@ -13,7 +13,7 @@ As a way to promote inter-region discussion and collaboration amongst Asia and O
 *André Antunes*, Macau University of Science and Technology (MUST), Macau<br>
 *Anna Wang*, University of New South Wales (UNSW), Australia<br>
 *Siddharth Pandey*, Amity Centre of Excellence in Astrobiology (ACoeA), India<br>
-*Maggie Lau*, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, China<br>
+*Maggie Lau*, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, (IDSSE, CAS) China<br>
 *Henry Sun*, Desert Research Institute, USA<br>
 *Thilina Heenatigala*, Earth-Life Science Institute (ELSI), Japan<br>
 *Tony Z Jia*, Earth-Life Science Institute (ELSI), Japan
@@ -42,7 +42,8 @@ Thursday, July 23<br>0330 GMT/1130 CST (UTC+8) | **Maggie C.Y. Lau (IDSSE, CAS)*
 <a href="/images/ASAP_Astrobiology_Webinar_20200710-Pandey.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200710-Pandey.png" width="85" height="110"></a>
 
 <!--Anna's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" target="_blank"><img border="0" src="/images/AASAP_Astrobiology_Webinar_20200715-ACA.png" width="850" height="1100"></a>
+<a href="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" width="85" height="110"></a>
+
 
 <!--
 <a href="website" target="_blank">website</a>
