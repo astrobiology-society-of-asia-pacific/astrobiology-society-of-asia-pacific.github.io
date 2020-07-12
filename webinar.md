@@ -36,10 +36,10 @@ Thursday, July 23<br>0330 GMT/1130 CST (UTC+8) | **Maggie C.Y. Lau (IDSSE, CAS)*
 <a href="/images/ASAP_Astrobiology_Webinar_20200626-Jia.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200626-Jia.png" width="85" height="110"></a>
 
 <!--Andre's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200701-Antunes.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200701-Antunes.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/pw6Qm5xeql0" target="_blank">https://youtu.be/pw6Qm5xeql0</a> and <a href="https://www.bilibili.com/video/BV15A411e7bZ/" target="_blank">https://www.bilibili.com/video/BV15A411e7bZ/</a>
+<a href="/images/ASAP_Astrobiology_Webinar_20200701-Antunes.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200701-Antunes.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/pw6Qm5xeql0" target="_blank">https://youtu.be/pw6Qm5xeql0</a> and <a href="https://www.bilibili.com/video/BV15A411e7bZ/" target="_blank">https://www.bilibili.com/video/BV15A411e7bZ/</a>.
 
 <!--Sidd's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200710-Pandey.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200710-Pandey.png" width="85" height="110"></a>
+<a href="/images/ASAP_Astrobiology_Webinar_20200710-Pandey.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200710-Pandey.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/bCesZia1bvo" target="_blank">https://youtu.be/bCesZia1bvo</a> and <a href="https://www.bilibili.com/video/BV1sh411o7qb/" target="_blank">https://www.bilibili.com/video/BV1sh411o7qb/</a>.
 
 <!--Anna's flyer-->
 <a href="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" width="850" height="1100"></a>
