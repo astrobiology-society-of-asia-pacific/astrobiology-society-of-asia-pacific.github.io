@@ -28,7 +28,7 @@ Friday, June 26<br>0630 GMT/1530 JST (UTC+9) | **Tony Z Jia (ELSI, BMSIS)**<br>P
 Wednesday, July 1<br>0330 GMT/1130 CST (UTC+8) | **André Antunes (MUST-SKLPlanets)**<br>New Frontiers in Microbiology: Brines, Biominerals, and Exooceans
 Friday, July 10<br>0330 GMT/0900 IST (UTC+5:30) | **Siddharth Pandey (ACoeA)**<br>Overview of Astrobiology Activities in India 
 Wednesday, July 15<br>0330 GMT/1330 AEST (UTC+10) | **Anna Wang (UNSW)**<br>From A Continuous Reaction Network that Produces RNA Precursors to Unusual Properties of Primitive Membranes
-Thursday, July 23<br>0330 GMT/1130 CST (UTC+8) | **Maggie C.Y. Lau (IDSSE, CAS)**<br>Astrobiology through the lens of Geomicrobiology
+Thursday, July 23<br>0330 GMT/1130 CST (UTC+8) | **Maggie C.Y. Lau Vetter (IDSSE, CAS)**<br>Astrobiology through the lens of Geomicrobiology
 (Week of July 27)<br>TBA | **Henry Sun (DRI)**<br>TBA
 Friday, August 7<br>0630 GMT/1530 JST (UTC+9) | **Matthieu Laneuville (ELSI)**<br>TBA
 (Week of August 10)<br>TBA | TBA<br>TBA
