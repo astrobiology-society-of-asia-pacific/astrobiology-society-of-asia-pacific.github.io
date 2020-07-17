@@ -14,7 +14,7 @@ As a way to promote inter-region discussion and collaboration amongst Asia and O
 *Anna Wang*, University of New South Wales (UNSW), Australia<br>
 *Siddharth Pandey*, Amity Centre of Excellence in Astrobiology (ACoeA), India<br>
 *Maggie Lau*, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, (IDSSE, CAS) China<br>
-*Henry Sun*, Desert Research Institute, USA<br>
+*Henry Sun*, Desert Research Institute (DRI), USA<br>
 *Thilina Heenatigala*, Earth-Life Science Institute (ELSI), Japan<br>
 *Tony Z Jia*, Earth-Life Science Institute (ELSI), Japan
 
@@ -28,7 +28,16 @@ Friday, June 26<br>0630 GMT/1530 JST (UTC+9) | **Tony Z Jia (ELSI, BMSIS)**<br>P
 Wednesday, July 1<br>0330 GMT/1130 CST (UTC+8) | **André Antunes (MUST-SKLPlanets)**<br>New Frontiers in Microbiology: Brines, Biominerals, and Exooceans
 Friday, July 10<br>0330 GMT/0900 IST (UTC+5:30) | **Siddharth Pandey (ACoeA)**<br>Overview of Astrobiology Activities in India 
 Wednesday, July 15<br>0330 GMT/1330 AEST (UTC+10) | **Anna Wang (UNSW)**<br>From A Continuous Reaction Network that Produces RNA Precursors to Unusual Properties of Primitive Membranes
-Thursday, July 23<br>0330 GMT/1130 CST (UTC+8) | **Maggie C.Y. Lau (IDSSE, CAS)**<br>From Geomicrobiology of Extreme Ecosystems To Astrobiology
+Thursday, July 23<br>0330 GMT/1130 CST (UTC+8) | **Maggie C.Y. Lau (IDSSE, CAS)**<br>Astrobiology through the lens of Geomicrobiology
+(Week of July 27)<br>TBA | **Henry Sun (DRI)**<br>TBA
+Friday, August 7<br>0630 GMT/1530 JST (UTC+9) | **Matthieu Laneuville (ELSI)**<br>TBA
+(Week of August 10)<br>TBA | TBA<br>TBA
+(Week of August 17)<br>TBA | TBA<br>TBA
+(Week of August 31)<br>TBA | TBA<br>TBA
+(Week of September 7)<br>TBA | No lecture<br>(*Astrobiology Australasia Meeting 2020, <a href="https://www.aam2020.org/" target="_blank">https://www.aam2020.org/</a>*)
+(Week of September 14)<br>TBA | TBA<br>TBA
+Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima University)**<br>TBA
+
 
 
 ## Abstracts
