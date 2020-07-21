@@ -51,7 +51,8 @@ Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima U
 <a href="/images/ASAP_Astrobiology_Webinar_20200710-Pandey.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200710-Pandey.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/bCesZia1bvo" target="_blank">https://youtu.be/bCesZia1bvo</a> and <a href="https://www.bilibili.com/video/BV1sh411o7qb/" target="_blank">https://www.bilibili.com/video/BV1sh411o7qb/</a>.
 
 <!--Anna's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" width="85" height="110"></a>
+<a href="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/gAM5stI1NNY" target="_blank">https://youtu.be/gAM5stI1NNY</a> and <a href="https://www.bilibili.com/video/BV1RT4y1L7op/" target="_blank">https://www.bilibili.com/video/BV1RT4y1L7op/</a>.
+
 
 <!--Maggie's flyer-->
 <a href="/images/ASAP_Astrobiology_Webinar_20200723-Lau.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200723-Lau.png" width="850" height="1100"></a>
