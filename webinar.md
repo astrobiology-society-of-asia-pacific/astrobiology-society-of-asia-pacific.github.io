@@ -29,7 +29,7 @@ Wednesday, July 1<br>0330 GMT/1130 CST (UTC+8) | **André Antunes (MUST-SKLPlane
 Friday, July 10<br>0330 GMT/0900 IST (UTC+5:30) | **Siddharth Pandey (ACoeA)**<br>Overview of Astrobiology Activities in India 
 Wednesday, July 15<br>0330 GMT/1330 AEST (UTC+10) | **Anna Wang (UNSW)**<br>From A Continuous Reaction Network that Produces RNA Precursors to Unusual Properties of Primitive Membranes
 Thursday, July 23<br>0330 GMT/1130 CST (UTC+8) | **Maggie C.Y. Lau Vetter (IDSSE, CAS)**<br>Astrobiology through the lens of Geomicrobiology
-(Week of July 27)<br>TBA | **Henry Sun (DRI)**<br>TBA
+Friday, July 31<br>0300 GMT/1100 CST (UTC+8) | **Henry Sun (DRI)**<br>D-Amino Acid Metabolism in L-Life
 Friday, August 7<br>0630 GMT/1530 JST (UTC+9) | **Matthieu Laneuville (ELSI)**<br>TBA
 (Week of August 10)<br>TBA | TBA<br>TBA
 (Week of August 17)<br>TBA | TBA<br>TBA
@@ -53,9 +53,13 @@ Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima U
 <!--Anna's flyer-->
 <a href="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200715-ACA.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/gAM5stI1NNY" target="_blank">https://youtu.be/gAM5stI1NNY</a> and <a href="https://www.bilibili.com/video/BV1RT4y1L7op/" target="_blank">https://www.bilibili.com/video/BV1RT4y1L7op/</a>.
 
-
 <!--Maggie's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200723-Lau.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200723-Lau.png" width="85" height="100"></a>   Video available at <a href="https://youtu.be/z3riWs19-WU" target="_blank">https://youtu.be/z3riWs19-WU</a> and <a href="https://www.bilibili.com/video/BV1s54y1S77a/" target="_blank">https://www.bilibili.com/video/BV1s54y1S77a/</a>.
+<a href="/images/ASAP_Astrobiology_Webinar_20200723-Lau.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200723-Lau.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/z3riWs19-WU" target="_blank">https://youtu.be/z3riWs19-WU</a> and <a href="https://www.bilibili.com/video/BV1s54y1S77a/" target="_blank">https://www.bilibili.com/video/BV1s54y1S77a/</a>.
+
+<!--Henry's flyer-->
+<a href="/images/ASAP_Astrobiology_Webinar_20200731-Sun.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200731-Sun.png" width="850" height="1100"></a>   
+
+
 
 
 
