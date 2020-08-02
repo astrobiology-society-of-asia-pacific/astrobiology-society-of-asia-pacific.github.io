@@ -57,7 +57,10 @@ Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima U
 <a href="/images/ASAP_Astrobiology_Webinar_20200723-Lau.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200723-Lau.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/z3riWs19-WU" target="_blank">https://youtu.be/z3riWs19-WU</a> and <a href="https://www.bilibili.com/video/BV1s54y1S77a/" target="_blank">https://www.bilibili.com/video/BV1s54y1S77a/</a>.
 
 <!--Henry's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200731-Sun.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200731-Sun.png" width="850" height="1100"></a>   
+<a href="/images/ASAP_Astrobiology_Webinar_20200731-Sun.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200731-Sun.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/znXevKcUeJg" target="_blank">https://youtu.be/znXevKcUeJg</a> and <a href="https://www.bilibili.com/video/BV1ZK411J7vs/" target="_blank">https://www.bilibili.com/video/BV1ZK411J7vs/</a>.
+
+
+
 
 
 
