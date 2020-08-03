@@ -30,7 +30,7 @@ Friday, July 10<br>0330 GMT/0900 IST (UTC+5:30) | **Siddharth Pandey (ACoeA)**<b
 Wednesday, July 15<br>0330 GMT/1330 AEST (UTC+10) | **Anna Wang (UNSW)**<br>From A Continuous Reaction Network that Produces RNA Precursors to Unusual Properties of Primitive Membranes
 Thursday, July 23<br>0330 GMT/1130 CST (UTC+8) | **Maggie C.Y. Lau Vetter (IDSSE, CAS)**<br>Astrobiology through the lens of Geomicrobiology
 Friday, July 31<br>0300 GMT/1100 CST (UTC+8) | **Henry Sun (DRI)**<br>D-Amino Acid Metabolism in L-Life
-Friday, August 7<br>0630 GMT/1530 JST (UTC+9) | **Matthieu Laneuville (ELSI)**<br>TBA
+Friday, August 7<br>0330 GMT/1230 JST (UTC+9) | **Matthieu Laneuville (ELSI)**<br>Planetary Diversity: from the Solar System to Exoplanets and Back
 (Week of August 10)<br>TBA | TBA<br>TBA
 (Week of August 17)<br>TBA | TBA<br>TBA
 (Week of August 31)<br>TBA | TBA<br>TBA
