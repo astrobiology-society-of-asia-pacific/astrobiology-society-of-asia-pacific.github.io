@@ -10,10 +10,10 @@ filename: webinar
 As a way to promote inter-region discussion and collaboration amongst Asia and Oceania astrobiology researchers, the ASAP Astrobiology Webinar Series will be launched in collaboration with the Astrobiology Society of Asia-Pacific (ASAP). The weekly series will span over the three northern hemisphere summer months with weekly online seminars featuring researchers from a variety of institutions in Asia and Oceania and astrobiology-related fields. The webinars are open for students and researchers who are interested in the topics in astrobiology and will be held in English.
 
 ## ASAP Astrobiology Webinar Series Organizing Team
-*André Antunes*, Macau University of Science and Technology (MUST), Macau<br>
+*André Antunes*, Macau University of Science and Technology, State Key Laboratory of Lunar and Planetary Sciences, (MUST-SKLPlanets) Macau SAR, China<br>
 *Anna Wang*, University of New South Wales (UNSW), Australia<br>
 *Siddharth Pandey*, Amity Centre of Excellence in Astrobiology (ACoeA), India<br>
-*Maggie Lau*, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, (IDSSE, CAS) China<br>
+*Maggie Lau*, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, (IDSSE, CAS), China<br>
 *Henry Sun*, Desert Research Institute (DRI), USA<br>
 *Thilina Heenatigala*, Earth-Life Science Institute (ELSI), Japan<br>
 *Tony Z Jia*, Earth-Life Science Institute (ELSI), Japan
