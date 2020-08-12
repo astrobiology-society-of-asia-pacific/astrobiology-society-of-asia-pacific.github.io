@@ -8,7 +8,7 @@ filename: groups
 
 * **Antunes, André**, Dr, Prof<br>
   Associate Professor<br>
-  Macau University of Science and Technology (MUST), Macau, China<br>
+  Macau University of Science and Technology (MUST), State Key Laboratory of Lunar and Planetary Sciences (MUST-SKLPlanets), Macau SAR, China<br>
   <a href="https://www.must.edu.mo/images/SSI/cv/2018/ssi_Associate-Professor_cv-Andre-Antunes.pdf" target="_blank">https://www.must.edu.mo/images/SSI/cv/2018/ssi_Associate-Professor_cv-Andre-Antunes.pdf</a>
 
 * **Jia, Tony Z.**<br>
