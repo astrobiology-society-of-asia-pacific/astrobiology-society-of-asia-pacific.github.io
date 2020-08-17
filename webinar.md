@@ -27,12 +27,12 @@ Day and Time | Speaker and Title
 Friday, June 26<br>0630 GMT/1530 JST (UTC+9) | **Tony Z Jia (ELSI, BMSIS)**<br>Primitive Compartments on Early Earth Assembled through Liquid-Liquid Phase Separation Phenomena
 Wednesday, July 1<br>0330 GMT/1130 CST (UTC+8) | **André Antunes (MUST-SKLPlanets)**<br>New Frontiers in Microbiology: Brines, Biominerals, and Exooceans
 Friday, July 10<br>0330 GMT/0900 IST (UTC+5:30) | **Siddharth Pandey (ACoeA)**<br>Overview of Astrobiology Activities in India 
-Wednesday, July 15<br>0330 GMT/1330 AEST (UTC+10) | **Anna Wang (UNSW)**<br>From A Continuous Reaction Network that Produces RNA Precursors to Unusual Properties of Primitive Membranes
+Wednesday, July 15<br>0330 GMT/1330 AEST (UTC+10) | **Albert Fahrenbach and Anna Wang (Australian Centre for Astrobiology, UNSW Sydney)**<br>From A Continuous Reaction Network that Produces RNA Precursors to Unusual Properties of Primitive Membranes
 Thursday, July 23<br>0330 GMT/1130 CST (UTC+8) | **Maggie C.Y. Lau Vetter (IDSSE, CAS)**<br>Astrobiology through the lens of Geomicrobiology
 Friday, July 31<br>0300 GMT/1100 CST (UTC+8) | **Henry Sun (DRI)**<br>D-Amino Acid Metabolism in L-Life
 Friday, August 7<br>0630 GMT/1530 JST (UTC+9) | **Matthieu Laneuville (ELSI)**<br>Planetary Diversity: from the Solar System to Exoplanets and Back
 Thursday, August 13<br> 0700 GMT/1500 CST (UTC+8) | **David C. Fernandez-Remolar (MUST-SKLPlanets)**<br>Biosignature Preservation in Extreme Terrestrial Analogs of Ancient Mars Environments
-(Week of August 17)<br>TBA | TBA<br>TBA
+Tuesday, August 18<br>0530 GMT/1530 AEST (UTC+10) | **Bonnie Teece and Luke Steller (Australian Centre for Astrobiology, UNSW Sydney)**<br>Praxical: Learn by Doing
 (Week of August 31)<br>TBA | TBA<br>TBA
 (Week of September 7)<br>TBA | No lecture<br>(*Astrobiology Australasia Meeting 2020, <a href="https://www.aam2020.org/" target="_blank">https://www.aam2020.org/</a>*)
 (Week of September 14)<br>TBA | TBA<br>TBA
@@ -63,8 +63,10 @@ Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima U
 <a href="/images/ASAP_Astrobiology_Webinar_20200807-Laneuville.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200807-Laneuville.png" width="85" height="110"></a>   No video available. 
 
 <!--David's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200813-Fernandez-Remolar.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200813-Fernandez-Remolar.png" width="850" height="1100"></a>  
+<a href="/images/ASAP_Astrobiology_Webinar_20200813-Fernandez-Remolar.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200813-Fernandez-Remolar.png" width="85" height="110"></a>  
 
+<!--Praxical's flyer-->
+<a href="/images/ASAP_Astrobiology_Webinar_20200818_Praxical.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200818_Praxical.png" width="850" height="1100"></a>  
 
 
 
