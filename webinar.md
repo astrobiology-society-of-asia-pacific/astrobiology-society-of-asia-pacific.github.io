@@ -63,7 +63,9 @@ Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima U
 <a href="/images/ASAP_Astrobiology_Webinar_20200807-Laneuville.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200807-Laneuville.png" width="85" height="110"></a>   No video available. 
 
 <!--David's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200813-Fernandez-Remolar.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200813-Fernandez-Remolar.png" width="85" height="110"></a>  
+<a href="/images/ASAP_Astrobiology_Webinar_20200813-Fernandez-Remolar.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200813-Fernandez-Remolar.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/BEsrGt-vyqs" target="_blank">https://youtu.be/BEsrGt-vyqs</a> and <a href="https://www.bilibili.com/video/BV1SZ4y1K7tc/" target="_blank">https://www.bilibili.com/video/BV1SZ4y1K7tc/</a>.
+
+<!--Matthieu's flyer-->
 
 <!--Praxical's flyer-->
 <a href="/images/ASAP_Astrobiology_Webinar_20200818_Praxical.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200818_Praxical.png" width="850" height="1100"></a>  
