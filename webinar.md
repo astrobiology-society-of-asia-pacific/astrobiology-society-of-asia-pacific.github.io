@@ -34,6 +34,7 @@ Friday, August 7<br>0630 GMT/1530 JST (UTC+9) | **Matthieu Laneuville (ELSI)**<b
 Thursday, August 13<br> 0700 GMT/1500 CST (UTC+8) | **David C. Fernandez-Remolar (MUST-SKLPlanets)**<br>Biosignature Preservation in Extreme Terrestrial Analogs of Ancient Mars Environments
 Tuesday, August 18<br>0530 GMT/1530 AEST (UTC+10) | **Bonnie Teece and Luke Steller (Australian Centre for Astrobiology, UNSW Sydney)**<br>Praxical: Learn by Doing
 Thursday, August 27<br> 0700 GMT/1100 UAEST (UTC+8) | **Dimitra Atri (NNew York University Abu Dhabi, United Arab Emirates)**<br>Life in Astrophysical Context: Role of Ionizing Radiation
+Thursday, September 3<br>0630 GMT/1430 CST (UTC+8) | **Bhala Sivaraman (Physical Research Laboratory, Ahmedabad, India)**<br>Complex molecules in astrochemical impact induced shock conditions
 (Week of September 7)<br>TBA | No lecture<br>(*Astrobiology Australasia Meeting 2020, <a href="https://www.aam2020.org/" target="_blank">https://www.aam2020.org/</a>*)
 Thursday, September 17<br> 0300 GMT/1100 CST (UTC+8) | **Huapei Wang (China University of Geosciences)**<br>TBA
 Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima University)**<br>TBA
@@ -69,8 +70,10 @@ Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima U
 <a href="/images/ASAP_Astrobiology_Webinar_20200818_Praxical.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200818_Praxical.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/9Q0OftNtQkw" target="_blank">https://youtu.be/9Q0OftNtQkw</a> and <a href="https://www.bilibili.com/video/BV18K4y1Y74k/" target="_blank">https://www.bilibili.com/video/BV18K4y1Y74k/</a>.
 
 <!--Dimitra's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200827_Atri.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200827_Atri.png" width="850" height="1100"></a>
+<a href="/images/ASAP_Astrobiology_Webinar_20200827_Atri.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200827_Atri.png" width="85" height="110"></a>
 
+<!--Bhala's flyer-->
+<a href="/images/ASAP_Astrobiology_Webinar_20200903-Bhala.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200903-Bhala.png" width="850" height="1100"></a>
 
 <!--
 <a href="website" target="_blank">website</a>
