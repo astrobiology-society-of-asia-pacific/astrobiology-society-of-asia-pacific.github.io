@@ -36,7 +36,7 @@ Tuesday, August 18<br>0530 GMT/1530 AEST (UTC+10) | **Bonnie Teece and Luke Stel
 Thursday, August 27<br> 0700 GMT/1100 UAEST (UTC+8) | **Dimitra Atri (NNew York University Abu Dhabi, United Arab Emirates)**<br>Life in Astrophysical Context: Role of Ionizing Radiation
 Thursday, September 3<br>0630 GMT/1430 CST (UTC+8) | **Bhala Sivaraman (Physical Research Laboratory, Ahmedabad, India)**<br>Complex molecules in astrochemical impact induced shock conditions
 (Week of September 7)<br>TBA | No lecture<br>(*Astrobiology Australasia Meeting 2020, <a href="https://www.aam2020.org/" target="_blank">https://www.aam2020.org/</a>*)
-Thursday, September 17<br> 0300 GMT/1100 CST (UTC+8) | **Huapei Wang (China University of Geosciences)**<br>TBA
+Thursday, September 17<br> 0300 GMT/1100 CST (UTC+8) | **Huapei Wang (China University of Geosciences)**<br>Magnetic fields in our solar system and habitability of planets
 Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima University)**<br>TBA
 
 
