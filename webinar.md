@@ -73,7 +73,10 @@ Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima U
 <a href="/images/ASAP_Astrobiology_Webinar_20200827_Atri.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200827_Atri.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/fGj-lJa3v1o" target="_blank">https://youtu.be/fGj-lJa3v1o</a> and <a href="https://www.bilibili.com/video/BV12y4y1C7zk/" target="_blank">https://www.bilibili.com/video/BV12y4y1C7zk/</a>.
 
 <!--Bhala's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200903-Bhala.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200903-Bhala.png" width="850" height="1100"></a>
+<a href="/images/ASAP_Astrobiology_Webinar_20200903-Bhala.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200903-Bhala.png" width="85" height="110"></a>   No video available. 
+
+<!--Huapei's flyer-->
+<a href="/images/ASAP_Astrobiology_Webinar_20200917-Wang.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_2020917-Wang.png" width="850" height="1100"></a>
 
 <!--
 <a href="website" target="_blank">website</a>
