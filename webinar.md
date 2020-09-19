@@ -37,7 +37,7 @@ Thursday, August 27<br> 0700 GMT/1100 UAEST (UTC+8) | **Dimitra Atri (NNew York 
 Thursday, September 3<br>0630 GMT/1430 CST (UTC+8) | **Bhala Sivaraman (Physical Research Laboratory, Ahmedabad, India)**<br>Complex molecules in astrochemical impact induced shock conditions
 (Week of September 7)<br>TBA | No lecture<br>(*Astrobiology Australasia Meeting 2020, <a href="https://www.aam2020.org/" target="_blank">https://www.aam2020.org/</a>*)
 Thursday, September 17<br> 0300 GMT/1100 CST (UTC+8) | **Huapei Wang (China University of Geosciences)**<br>Magnetic fields in our solar system and habitability of planets
-Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima University)**<br>TBA
+Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima University)**<br>Chemical History of Organic Macromolecules in the Early Solar System: Scientific Strategy and Expected Insights from Asteroid Ryugu
 
 
 
@@ -76,7 +76,11 @@ Friday, September 25<br>0630 GMT/1530 JST (UTC+9) | **Hikaru Yabuta (Hiroshima U
 <a href="/images/ASAP_Astrobiology_Webinar_20200903-Bhala.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200903-Bhala.png" width="85" height="110"></a>   No video available. 
 
 <!--Huapei's flyer-->
-<a href="/images/ASAP_Astrobiology_Webinar_20200917-Wang.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200917-Wang.png" width="850" height="1100"></a>
+<a href="/images/ASAP_Astrobiology_Webinar_20200917-Wang.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200917-Wang.png" width="85" height="110"></a>   Video available at <a href="https://youtu.be/FPBsFcHpY7Y" target="_blank">https://youtu.be/FPBsFcHpY7Y</a> and <a href="https://www.bilibili.com/video/BV1zK411P7NK/" target="_blank">https://www.bilibili.com/video/BV1zK411P7NK/</a>.
+
+<!--Hikaru's flyer-->
+<a href="/images/ASAP_Astrobiology_Webinar_20200925-Yabuta.png" target="_blank"><img border="0" src="/images/ASAP_Astrobiology_Webinar_20200925-Yabuta.png" width="850" height="1100"></a>
+
 
 <!--
 <a href="website" target="_blank">website</a>
